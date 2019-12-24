@@ -1,0 +1,23 @@
+{
+  "name": "mrrobottextconverter",
+  "version": "1.0.0",
+  "description": "Text converter text to mr robot epidode text format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexNYC25/mrRobotTextConverter.git"
+  },
+  "author": "Alexis Montes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexNYC25/mrRobotTextConverter/issues"
+  },
+  "homepage": "https://github.com/AlexNYC25/mrRobotTextConverter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
